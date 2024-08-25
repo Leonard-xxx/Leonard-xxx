@@ -16,10 +16,3 @@ Instruksi langkah demi langkah untuk menginstal dan menjalankan proyek di lingku
 
 - Node.js (jika ada)
 - Web browser
-
-### Cara Memulai
-
-1. **Clone repositori ini:**
-
-   ```bash
-   git clone https://github.com/username/nama-proyek.git
